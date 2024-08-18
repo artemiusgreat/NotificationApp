@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhBPLmFVkxA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\OneDrive\\Desktop\\UserNotificationListener\\UserNotificationListenerTest\\Notices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\reactiveproperty\\7.4.0\\reactiveproperty.7.4.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\reactiveproperty.core\\7.4.0\\reactiveproperty.core.7.4.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.32\\microsoft.netcore.app.runtime.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.32\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.32\\microsoft.aspnetcore.app.runtime.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

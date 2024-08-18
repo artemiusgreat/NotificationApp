@@ -1,0 +1,204 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Notices/1.0.0": {
+        "dependencies": {
+          "Microsoft.Windows.SDK.Contracts": "10.0.19041.1",
+          "ReactiveProperty": "7.4.0",
+          "System.ServiceProcess.ServiceController": "8.0.0",
+          "System.Reactive.Reference": "4.4.0.0"
+        },
+        "runtime": {
+          "Notices.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0": {},
+      "Microsoft.Windows.SDK.Contracts/10.0.19041.1": {
+        "dependencies": {
+          "System.Runtime.WindowsRuntime": "4.6.0",
+          "System.Runtime.WindowsRuntime.UI.Xaml": "4.6.0"
+        }
+      },
+      "ReactiveProperty/7.4.0": {
+        "dependencies": {
+          "ReactiveProperty.Core": "7.4.0",
+          "System.ComponentModel.Annotations": "4.7.0",
+          "System.Reactive": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ReactiveProperty.dll": {
+            "assemblyVersion": "7.4.0.0",
+            "fileVersion": "7.4.0.0"
+          }
+        }
+      },
+      "ReactiveProperty.Core/7.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/ReactiveProperty.Core.dll": {
+            "assemblyVersion": "7.4.0.0",
+            "fileVersion": "7.4.0.0"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.7.0": {},
+      "System.Diagnostics.EventLog/8.0.0": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Reactive/4.4.1": {},
+      "System.Runtime.WindowsRuntime/4.6.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0"
+        }
+      },
+      "System.Runtime.WindowsRuntime.UI.Xaml/4.6.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0",
+          "System.Runtime.WindowsRuntime": "4.6.0"
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "System.ServiceProcess.ServiceController/8.0.0": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "8.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceProcess.ServiceController.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Reactive.Reference/4.4.0.0": {
+        "runtime": {
+          "System.Reactive.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.1.57983"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TsETIgVJb/AKoYfSP+iCxkuly5d3inZjTdx/ItZLk2CxY85v8083OBS3uai84kK3/baLnS5/b5XGs6zR7SuuHQ==",
+      "path": "microsoft.netcore.platforms/3.0.0",
+      "hashPath": "microsoft.netcore.platforms.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.Contracts/10.0.19041.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sgDwuoyubbLFNJR/BINbvfSNRiglF91D+Q0uEAkU4ZTO5Hgbnu8+gA4TCc65S56e1kK7gvR1+H4kphkDTr+9bw==",
+      "path": "microsoft.windows.sdk.contracts/10.0.19041.1",
+      "hashPath": "microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512"
+    },
+    "ReactiveProperty/7.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+kS8OAaXoOILkLxxMkFU7pg2XNs8URNHwupl70bI33K4hQZ+0qYPDveXmyPkWdNGu7PAlk27w7nK9rrNKo+htw==",
+      "path": "reactiveproperty/7.4.0",
+      "hashPath": "reactiveproperty.7.4.0.nupkg.sha512"
+    },
+    "ReactiveProperty.Core/7.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-22MXyavLP55OTePb139vG10pcqfkFqiS/VuK7LUM6vlXsX8rAlq9JEpXfE+nyiWGCsqa9SkKctFFG62honuDSg==",
+      "path": "reactiveproperty.core/7.4.0",
+      "hashPath": "reactiveproperty.core.7.4.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fdYxcRjQqTTacKId/2IECojlDSFvp7LP5N78+0z/xH7v/Tuw5ZAxu23Y6PTCRinqyu2ePx+Gn1098NC6jM6d+A==",
+      "path": "system.diagnostics.eventlog/8.0.0",
+      "hashPath": "system.diagnostics.eventlog.8.0.0.nupkg.sha512"
+    },
+    "System.Reactive/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iSTPeWR9HJhGoNV4WhVlvofuiTjpok1i4E3LPgMdbMqf3jKhFlT9HAlO32lb52NLppWC/4dZQFfUzTytvyXBmw==",
+      "path": "system.reactive/4.4.1",
+      "hashPath": "system.reactive.4.4.1.nupkg.sha512"
+    },
+    "System.Runtime.WindowsRuntime/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IWrs1TmbxP65ZZjIglNyvDkFNoV5q2Pofg5WO7I8RKQOpLdFprQSh3xesOoClBqR4JHr4nEB1Xk1MqLPW1jPuQ==",
+      "path": "system.runtime.windowsruntime/4.6.0",
+      "hashPath": "system.runtime.windowsruntime.4.6.0.nupkg.sha512"
+    },
+    "System.Runtime.WindowsRuntime.UI.Xaml/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r4tNw5v5kqRJ9HikWpcyNf3suGw7DjX93svj9iBjtdeLqL8jt9Z+7f+s4wrKZJr84u8IMsrIjt8K6jYvkRqMSg==",
+      "path": "system.runtime.windowsruntime.ui.xaml/4.6.0",
+      "hashPath": "system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
+      "path": "system.security.principal.windows/5.0.0",
+      "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
+    },
+    "System.ServiceProcess.ServiceController/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jtYVG3bpw2n/NvNnP2g/JLri0D4UtfusTvLeH6cZPNAEjJXJVGspS3wLgVvjNbm+wjaYkFgsXejMTocV1T5DIQ==",
+      "path": "system.serviceprocess.servicecontroller/8.0.0",
+      "hashPath": "system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+    },
+    "System.Reactive.Reference/4.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

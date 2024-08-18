@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\artem\\OneDrive\\Desktop\\UserNotificationListener\\UserNotificationListenerTest\\Notices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\artem\\OneDrive\\Desktop\\UserNotificationListener\\UserNotificationListenerTest\\Notices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Desktop\\UserNotificationListener\\UserNotificationListenerTest\\Notices.csproj",
+        "projectName": "Notices",
+        "projectPath": "C:\\Users\\artem\\OneDrive\\Desktop\\UserNotificationListener\\UserNotificationListenerTest\\Notices.csproj",
+        "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artem\\OneDrive\\Desktop\\UserNotificationListener\\UserNotificationListenerTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.19041.1, )"
+            },
+            "ReactiveProperty": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "uap10.0.19041",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
